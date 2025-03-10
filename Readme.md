@@ -1,18 +1,11 @@
-# My Project
-
-Welcome to my project. Here’s a quick overview.
 
 <details>
-  <summary>Click here to see more content</summary>
+  <summary>Basic Routing</summary>
   
   ## Content Revealed
   
-  This is the hidden content that will be shown when the button is clicked.
-  - More details about the project
-  - Installation instructions
-  - How to use the app
   
-</details>
+  
 
 
 # 🚀 **Next.js 14-এ Nested Route (নেস্টেড রাউট) ব্যবহারের বাংলা টিউটোরিয়াল (TypeScript + TSX)**
@@ -161,3 +154,5 @@ export default function Loading() {
 ✅ **ডাইনামিক রাউট ও লোডিং স্ক্রিন যোগ করলে প্রজেক্ট আরও ভালো হয়।**  
 
 🚀 **এখন আপনি Next.js-এ Nested Routing ব্যবহার করতে পারবেন! Happy Coding! 🎯**
+
+</details>
