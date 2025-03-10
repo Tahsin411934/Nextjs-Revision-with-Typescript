@@ -1,3 +1,20 @@
+# My Project
+
+Welcome to my project. Here’s a quick overview.
+
+<details>
+  <summary>Click here to see more content</summary>
+  
+  ## Content Revealed
+  
+  This is the hidden content that will be shown when the button is clicked.
+  - More details about the project
+  - Installation instructions
+  - How to use the app
+  
+</details>
+
+
 # 🚀 **Next.js 14-এ Nested Route (নেস্টেড রাউট) ব্যবহারের বাংলা টিউটোরিয়াল (TypeScript + TSX)**
 Next.js-এ **Nested Routes** মানে হলো **একটি রাউটের ভিতরে অন্য রাউট তৈরি করা**।  
 এটি **ড্যাশবোর্ড, ব্লগ পোস্ট, প্রোফাইল, অ্যাডমিন প্যানেল ইত্যাদির জন্য দরকারি**।  
